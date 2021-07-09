@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+*{
+    margin: auto;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    width: 100%;
+}
+
+header{
+    background: #011738;
+    float: left;
+    width: 100%;
+}
+
+.inicio{
+    float: left;
+}
+
+.inicio a{
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    color: #838383; 
+    text-decoration: none;
+}
+
+.boton{
+    font-size: 15px;
+    float: right;
+    color: #838383;
+    background: none;
+    border: none;
+    margin-right: 15px;
+    padding: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.user{
+    font-family: 'Montserrat', sans-serif;
+    float: right;
+    margin-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    color: #838383;
+}
+
+nav{
+    background: #003c96;
+    float: left;
+    width: 100%;
+    text-align: center;
+    clear: both;
+}
+
+nav h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 5px;
+}
+
+.menu1{
+    margin-left: 450px;
+}
+
+.menu2{
+    float: left;
+    padding: 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+section{
+    background: #35b5ff;
+    float: left;
+    width: 100%;
+    height: 720px;
+}
+
+.cuerpo{
+    background: #d8d8d8;
+    border-radius: 3px;
+    float: left;
+    width: 900px;
+    height: 500px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.no{
+    float: left;
+    margin-left: 300px;
+}
+
+.contenido{
+    float: left;
+    border: solid 2px black;
+    width: 840px;
+    height: 430px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.titulo{
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 2px black solid;
+}
+
+.espacio{
+    width: 800px;
+    text-align: center;
+    border-left: 2px black solid;
+    border-right: 2px black solid;
+}
+
+.men{
+    float: left;
+}
+
+.espacio td, th{
+        border-left: 1px black solid;
+}
+
+.botones{
+    background: #d8d8d8;
+    border-radius: 3px;
+    float: left;
+    width: 400px;
+    height: 500px;
+    margin-left: 130px;
+    margin-top: 50px;  
+}
+
+.eliminars{
+    float: left;
+    background: red;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border: solid 2px #830000;
+    border-radius:5px;
+    padding: 8px;
+    margin-top: 50px;
+    margin-left: 120px;
+    font-size: 15px;
+}
+
+.editar{
+    float: left;
+    background: #007be4;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border: solid 2px #00569e;
+    border-radius:5px;
+    padding: 8px;
+    margin-top: 50px;
+    margin-left: 130px;
+    font-size: 15px;    
+}
+
+.insertar{
+    float: left;
+    background: #00cb13;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    border: solid 2px #00780b;
+    border-radius:5px;
+    padding: 8px;
+    margin-top: 50px;
+    margin-left: 120px;
+    font-size: 15px;    
+}
+
+
+.msj{
+	float: left;
+	clear: both;
+    margin-top: 30px;
+    margin-left: 30px;
+}
